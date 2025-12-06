@@ -2,8 +2,11 @@
 Some Jupyter notebooks demonstrating various types of models for systemic financial risk, including indicator back-testing, 
 network construction, network analytics, statistical stress-testing & economic models. 
 Many of these can be run on Azure, when the required R & python packages are supported.  
-* https://notebooks.azure.com/ian-buckley/libraries/systemic-risk
-* https://github.com/roguetrainer/systemic-risk  
+
+* [systemic-risk](https://github.com/roguetrainer/systemic-risk) - Some Jupyter notebooks demonstrating various types of models for systemic financial risk, including indicator back-testing, network construction, network analytics, statistical stress-testing & economic models.
+* [rusty-quant](https://github.com/roguetrainer/rusty-quant) - An umbrella project to reference other repos on modern quantitative finance skills, tools & tricks.
+* [systemic-risk-intro](https://github.com/roguetrainer/systemic-risk-intro) - An introduction to systemic risk. A guest lecture with code demos.
+* [around-the-world-in-81-repos](https://github.com/roguetrainer/around-the-world-in-81-repos) - Around the world in 81 repos, inspired by Jules Verne. A journey through numerical research, powered by human creativity and AI collaboration.  
 
 ## Summary table
 |Name`   ` |Language`   `|Package`       ` |Author`       ` |Description`       ` |Publication`       ` |
